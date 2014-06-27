@@ -1,15 +1,3 @@
-⚠⚠⚠ WARNING WARNING WARNING ⚠⚠⚠
---------------------------------
-This library is not under active development.
-After spending 3 months trying to get support from Box, I finally gave up.
-
-If anyone is interested in taking over development, please contact me [on Twitter](https://twitter.com/eiopa).
-
-
-
-box.py - Python client for Box
-------------------------------
-
 [![Build Status](https://secure.travis-ci.org/sookasa/box.py.png?branch=master)](http://travis-ci.org/sookasa/box.py) [![Coverage Status](https://coveralls.io/repos/sookasa/box.py/badge.png)](https://coveralls.io/r/sookasa/box.py)
 
 
